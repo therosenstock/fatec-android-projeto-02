@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trapezio</string>
+    <string name="txtBaseMenor">Valor da base menor (cm)</string>
+    <string name="txtBaseMaior">Valor da base maior (cm)</string>
+    <string name="txtAltura">Valor da altura (cm)</string>
+    <string name="titulo">Calcule a área do trapézio</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="resultado"> </string>
+
+</resources>
